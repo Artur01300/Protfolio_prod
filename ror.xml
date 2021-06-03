@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://www.artur-karapetyan.fr/</title>
+  <link>https://www.artur-karapetyan.fr/</link>
+
+<item>
+     <link>https://www.artur-karapetyan.fr/</link>
+     <title>Portfolio | Artur KARAPETYAN</title>
+     <description>Portfolio Artur Karapetyan Développeur web, présentant ses créations des sites web et ses projets</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://www.artur-karapetyan.fr/cv/D%C3%A9veloppeurWeb.pdf</link>
+     <title></title>
+     
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
